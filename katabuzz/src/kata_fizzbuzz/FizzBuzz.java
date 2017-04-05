@@ -6,7 +6,9 @@
 package kata_fizzbuzz;
 
 /**
- *
+ 
+ * https://github.com/miguelcf/katabuzz/invitations
+ 
  * @author dam119
  */
 public class FizzBuzz {
