@@ -2,20 +2,29 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+cambiado a tesst2
+
+
  */
 package kata_fizzbuzz;
 
+import org.junit.Test;
+import static org.junit.Assert.*;
+
 /**
- *TEst build DE 3!!!!!
- * @author dam119
+ *
+ * @author daw105
  */
-public class Kata_FizzBuzz {
+public class FizzBuzzTest {
+    
+    public FizzBuzzTest() {
+    }
 
     /**
-     * @param args the command line arguments
+      TEst build DE 3!!!!!
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    @Test
+    public void testGetFizzBuzz() {
     }
     
 }
